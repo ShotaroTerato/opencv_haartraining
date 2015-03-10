@@ -1,2 +1,2 @@
 # opencv_haartraining
-ガンダムの顔認識させるための分類器になります。
+gundam_data.xml : ガンダムの顔認識させるための分類器になります。
